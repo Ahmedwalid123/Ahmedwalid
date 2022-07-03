@@ -1,0 +1,36 @@
+<!doctype html>
+<html dir="rtl"> 
+ <head> 
+  <style>
+
+ 
+    
+    html{font-size:px;back-ground:color:red border:2px solid orange;}  
+  </style> 
+  <meta charset="UTF-8"> 
+  <meta name="application-name" content="courses 4 arab"> 
+  <meta name="author" content="Ali Hassan"> 
+  <meta name="description" content="with us you will learn html and javascript"> 
+  <meta name="Keywords" content="html, css, javascript"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+ </head> 
+ <body> 
+  <h1 style="border:2px solid black;">اسئله سهله ومتنوعه مع احمد وليد </h1> 
+  <details> <summary>من هو اول من استخدم الشوكه</summary> 
+   <p>الملك هنري</p> 
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm9OgvYTL6PjRWFUxTRpZOB5M18UF5VtQ-ZA&amp;usqp=CAU" width="150px"> 
+  </details> 
+  <details> <summary>ما هي اسرع سمكه في العالم</summary> 
+   <p>سمكه التونه</p> 
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUDyCR0gA7W3-mJ8JieqYzzVD0b0YkhnmaUg&amp;usqp=CAU" width="250px"> 
+  </details> 
+  <details> <summary>ما هي اعلي الحروب تكلفه؟</summary> 
+   <p>الحرب العالميه الثانيه</p> 
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv4VE-dIQC8dUSACBjCze2UqFzDRiMJHYaqfDXexQWZX68orfo8KLbovM_&amp;s=10" width="250px"> 
+  </details> 
+  <details> <summary>كم كلفت الحرب العالميه الثانيه</summary> 
+   <p>60مليون دولار</p> 
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCrSK2VkfhL5rrAk_0LWkv-xUmLtiUVedWJaaP7sEy0cnpikTSI9lGw-rZ&amp;s=10" width="250px"> 
+  </details> 
+ </body>
+</html>
